@@ -3,19 +3,8 @@ title: Impressum
 date: 2016-12-12 22:54:48
 ---
 Angaben gemäß § 5 Telemediengesetz (TMG):
-Soenke Ruempler
-Hohenzollernring 138
-22763 Hamburg
-Deutschland
- 
-Kontakt:
-E-Mail: soenke@ruempler.eu
  
 Verantwortlicher für den Inhalt ist gemäß § 55 Abs. 2 Rundfunkstaatsvertrag (RStV):
-Soenke Ruempler
-Hohenzollernring 138
-22763 Hamburg
-Deutschland
  
 Ausschluss der Haftung:
 1. Haftung für Inhalte
